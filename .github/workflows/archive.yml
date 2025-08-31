@@ -1,0 +1,16 @@
+# ztag-presskit/.github/workflows/archive.yml
+
+# GitHub Action: auto-archive new links to Wayback
+name: Auto-archive Links
+
+on:
+  push:
+    paths:
+      - 'coverage/coverage.csv'
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder for archive workflow
+        run: echo "Archive workflow placeholder"

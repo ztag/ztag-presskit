@@ -1,0 +1,10 @@
+# ztag-presskit/fact-sheets/ztag-boilerplate.txt
+
+## 75-Word Version
+[Placeholder for 75-word company description]
+
+## 150-Word Version
+[Placeholder for 150-word company description]
+
+## 300-Word Version
+[Placeholder for 300-word company description]
